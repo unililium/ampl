@@ -1,0 +1,2 @@
+# ampl
+ampl exercises
