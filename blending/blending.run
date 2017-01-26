@@ -1,0 +1,6 @@
+model blending.mod
+data blending.dat
+option display_1col 0;
+option solver cplex;
+solve;
+display x,y;
