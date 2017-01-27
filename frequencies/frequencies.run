@@ -1,0 +1,7 @@
+model frequencies.mod
+data frequencies.dat
+option display_1col 0;
+option solver cplex;
+
+solve;
+display x;
